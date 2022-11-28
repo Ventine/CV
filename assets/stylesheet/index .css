@@ -102,17 +102,18 @@ nav.nav_menu.active a {
     font-family: 'Cooper Hewitt';
     letter-spacing: .1rem;
     text-decoration: none;
-    color: var(--black);
+    color: var(--purple);
     font-size: 2rem;
     width: 100%;
     text-align: center;
 }
 
 nav.nav_menu.active a:hover {
-    color: var(--purple);
+    color: var(--light-grey);
     background-color: var(--white);
     transition: all .4s;
 }
+
 
 nav.nav_menu.not-active a {
     display: none;
