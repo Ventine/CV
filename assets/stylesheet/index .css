@@ -83,7 +83,7 @@ nav.nav_menu.active {
     top: 5.3rem;
     width: 100%;
     height: auto;
-    background-color: var(--eerie-black);
+    background-color: var(--white);
     box-shadow: 0 10px 16px -6px rgb(5 5 5 / 30%), 0 25px 10px -24px rgb(5 5 5 / 10%);
     animation: ease .4s left forwards;
 }
@@ -113,7 +113,6 @@ nav.nav_menu.active a:hover {
     background-color: var(--white);
     transition: all .4s;
 }
-
 
 nav.nav_menu.not-active a {
     display: none;
