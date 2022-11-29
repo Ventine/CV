@@ -13,4 +13,4 @@
 
 ![image](https://user-images.githubusercontent.com/19364556/204413042-9c0c3578-97e2-4ebe-8699-eceba569c8ee.png)
 
-https://cute-kelpie-42b8b3.netlify.app/#contacto
+https://cute-kelpie-42b8b3.netlify.app/#home
