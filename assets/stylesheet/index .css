@@ -7,7 +7,7 @@
 :root {
     --white: #FFFFFF;
     --light-grey: #737373;
-    --purple: #9174CB;
+    --purple: #6b9795;
     --black: #141414;
     --eerie-black: #1F1F1F;
     --jet: #292929;
@@ -61,7 +61,7 @@ html::-webkit-scrollbar-thumb {
 
 .header.abajo {
     backdrop-filter: blur(15px);
-    background: #EAE3F8;
+    background: rgba(172, 186, 153, 0.3);
 }
 
 .logo {
@@ -537,7 +537,7 @@ img.logo-data {
 
 img.logo-web {
     width:24rem;
-    margin: 2.4rem 0;
+    margin: 1.4rem 0;
 }
 
 .cards--formacion p:nth-child(1) {
